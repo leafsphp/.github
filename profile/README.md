@@ -25,7 +25,7 @@ To report a security vulnerability, you can reach out to [@mychidarko](https://t
 
 Your cash contributions go a long way to help us make Leaf even better for you. You can sponsor Leaf and any of our packages on [open collective](https://opencollective.com/leaf) or check the [contribution page](https://leafphp.dev/support/) for a list of ways to contribute.
 
-### Contributors 🚀
+### Contributors and sponsors 🚀
 
 <table>
 	<tr>
