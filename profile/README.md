@@ -199,6 +199,17 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
             </sub>
           </a>
         </td>
+	<td align="center">
+          <a href="https://github.com/Kristories">
+            <img
+              src="https://avatars.githubusercontent.com/u/774338?v=4"
+              width="120px"
+              alt=""
+            />
+            <br />
+            <sub><b>Wahyu Kristianto</b></sub>
+          </a>
+        </td>
         <td align="center">
           <a href="https://opencollective.com/aaron-smith3">
             <img
@@ -210,7 +221,9 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
             <sub><b>Aaron Smith</b></sub>
           </a>
         </td>
-        <td align="center">
+      </tr>
+      <tr>
+	<td align="center">
           <a href="https://opencollective.com/peter-bogner">
             <img
               src="https://images.opencollective.com/peter-bogner/avatar/256.png"
@@ -221,8 +234,6 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
             <sub><b>Peter Bogner</b></sub>
           </a>
         </td>
-      </tr>
-      <tr>
         <td align="center">
           <a href="#">
             <img
