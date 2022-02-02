@@ -42,6 +42,19 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
             </sub>
           </a>
         </td>
+	<td align="center">
+          <a href="https://github.com/matthewjamesr">
+            <img
+              src="https://avatars.githubusercontent.com/u/303321?v=4"
+              width="120px"
+              alt=""
+            />
+            <br />
+            <sub>
+              <b>Matthew Reichardt</b>
+            </sub>
+          </a>
+        </td>
         <td align="center">
           <a href="https://github.com/ftonato">
             <img
@@ -64,7 +77,9 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
             <sub><b>Tobias Herber</b></sub>
           </a>
         </td>
-        <td align="center">
+      </tr>
+      <tr>
+	<td align="center">
           <a href="https://github.com/pjotrsavitski">
             <img
               src="https://avatars.githubusercontent.com/u/518331?&v=4"
@@ -75,8 +90,6 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
             <sub><b>Pjotr Savitski</b></sub>
           </a>
         </td>
-      </tr>
-      <tr>
         <td align="center">
           <a href="https://github.com/pablouser1">
             <img
@@ -110,7 +123,9 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
             <sub><b>Sergey Romanenko</b></sub>
           </a>
         </td>
-        <td align="center">
+      </tr>
+      <tr>
+	<td align="center">
           <a href="https://github.com/AshleySymbolic">
             <img
               src="https://avatars.githubusercontent.com/u/93997546?v=4"
@@ -121,8 +136,6 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
             <sub><b>Ashley</b></sub>
           </a>
         </td>
-      </tr>
-      <tr>
         <td align="center">
           <a href="https://github.com/brykov">
             <img
@@ -158,7 +171,9 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
             </sub>
           </a>
         </td>
-        <td align="center">
+      </tr>
+      <tr>
+	<td align="center">
           <a href="https://github.com/Aminur670">
             <img
               src="https://avatars.githubusercontent.com/u/32174602?v=4"
@@ -171,8 +186,6 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
             </sub>
           </a>
         </td>
-      </tr>
-      <tr>
         <td align="center">
           <a href="https://github.com/divineniiquaye">
             <img
@@ -210,7 +223,9 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
             <sub><b>Wahyu Kristianto</b></sub>
           </a>
         </td>
-        <td align="center">
+      </tr>
+      <tr>
+	<td align="center">
           <a href="https://opencollective.com/aaron-smith3">
             <img
               src="https://images.opencollective.com/aaron-smith3/08ee620/avatar/256.png"
@@ -221,8 +236,6 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
             <sub><b>Aaron Smith</b></sub>
           </a>
         </td>
-      </tr>
-      <tr>
 	<td align="center">
           <a href="https://opencollective.com/peter-bogner">
             <img
