@@ -2,30 +2,30 @@
 
 Welcome to the Leaf PHP organization. We use this as a space to organize all our community repos and build them up here. All your contributions are welcome 🍁
 
-### New here? 🙈
+### New here?
 
 - You can take a look at our pinned repos to get started or jump into our [forum](https://github.com/leafsphp/leaf/discussions/37).
 - Leaf's documentation is hosted at [leafphp.dev](https://leafphp.dev). All our other sites have links here
 - If you have any questions about leaf, you can ask away in our [Q&A discussion](https://github.com/leafsphp/leaf/discussions/43)
 
-### Leaf 3 🍁
+### Leaf 3
 
 Leaf 3 is our upcoming major release and comes with tons of improvements. Leaf 3 is still under development, currently in its "release candidate" phase, which means that a stable build should be ready soon.
 
 To keep track of Leaf 3's development, you can follow [this discussion](https://github.com/leafsphp/leaf/discussions/70)
 
-### Contributing 😇
+### Contributing
 
-We are glad to have you. All contributions are welcome! To get started, familiarize yourself with our [contribution guide](https://leafphp.dev/community/contributing.html) and you'll be ready to make your first pull request 🚀.
+We are glad to have you. All contributions are welcome! To get started, familiarize yourself with our [contribution guide](https://leafphp.dev/community/contributing.html) and you'll be ready to make your first pull request 🚀
 
 To report a security vulnerability, you can reach out to [@mychidarko](https://twitter.com/mychidarko) or [@leafphp](https://twitter.com/leafphp) on twitter. We will coordinate the fix and eventually commit the solution in this project.
 
 
-### Sponsoring Leaf 🤩
+### Sponsoring Leaf
 
 Your cash contributions go a long way to help us make Leaf even better for you. You can sponsor Leaf and any of our packages on [open collective](https://opencollective.com/leaf) or check the [contribution page](https://leafphp.dev/support/) for a list of ways to contribute.
 
-### Contributors and sponsors 🚀
+### Contributors and sponsors
 
 <table>
       <tr>
@@ -33,7 +33,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://github.com/mychidarko">
             <img
               src="https://avatars.githubusercontent.com/u/26604242?v=4"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -46,7 +46,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://github.com/matthewjamesr">
             <img
               src="https://avatars.githubusercontent.com/u/303321?v=4"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -59,7 +59,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://github.com/ftonato">
             <img
               src="https://avatars.githubusercontent.com/u/5417662?v=4"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -70,7 +70,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://github.com/herber">
             <img
               src="https://avatars.githubusercontent.com/u/22559657?&v=4"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -83,7 +83,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://github.com/pjotrsavitski">
             <img
               src="https://avatars.githubusercontent.com/u/518331?&v=4"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -94,7 +94,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://github.com/pablouser1">
             <img
               src="https://avatars.githubusercontent.com/u/17802865?&v=4"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -105,7 +105,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://github.com/monkeywithacupcake">
             <img
               src="https://avatars.githubusercontent.com/u/7316730?v=4"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -116,7 +116,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://github.com/Awilum">
             <img
               src="https://avatars.githubusercontent.com/u/477114?v=4"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -129,7 +129,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://github.com/AshleySymbolic">
             <img
               src="https://avatars.githubusercontent.com/u/93997546?v=4"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -140,7 +140,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://github.com/brykov">
             <img
               src="https://avatars.githubusercontent.com/u/476516?v=4"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -151,7 +151,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://github.com/ngekoding">
             <img
               src="https://avatars.githubusercontent.com/u/11625690?v=4"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -162,7 +162,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://github.com/MauMaxxa">
             <img
               src="https://avatars.githubusercontent.com/u/10811652?v=4"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -177,7 +177,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://github.com/Aminur670">
             <img
               src="https://avatars.githubusercontent.com/u/32174602?v=4"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -190,7 +190,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://github.com/divineniiquaye">
             <img
               src="https://avatars.githubusercontent.com/u/53147395?v=4"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -203,7 +203,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://github.com/Rai-Rai">
             <img
               src="https://avatars.githubusercontent.com/u/2023869?v=4"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -216,7 +216,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://github.com/Kristories">
             <img
               src="https://avatars.githubusercontent.com/u/774338?v=4"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -229,7 +229,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://opencollective.com/aaron-smith3">
             <img
               src="https://images.opencollective.com/aaron-smith3/08ee620/avatar/256.png"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -240,7 +240,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="https://opencollective.com/peter-bogner">
             <img
               src="https://images.opencollective.com/peter-bogner/avatar/256.png"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -251,7 +251,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="#">
             <img
               src="https://images.opencollective.com/guest-32634fda/avatar.png"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
@@ -262,7 +262,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
           <a href="#">
             <img
               src="https://images.opencollective.com/guest-c72a498e/avatar.png"
-              width="120px"
+              width="60px"
               alt=""
             />
             <br />
