@@ -4,21 +4,33 @@ Welcome to the Leaf PHP organization. We use this as a space to organize all our
 
 ### New here?
 
-- You can take a look at our pinned repos to get started or jump into our [forum](https://github.com/leafsphp/leaf/discussions/37).
-- Leaf's documentation is hosted at [leafphp.dev](https://leafphp.dev). All our other sites have links here
-- If you have any questions about leaf, you can ask away in our [Q&A discussion](https://github.com/leafsphp/leaf/discussions/43)
+<details>
+  <summary>Take a look</summary>
+  
+  - You can take a look at our pinned repos to get started or jump into our [forum](https://github.com/leafsphp/leaf/discussions/37).
+  - Leaf's documentation is hosted at [leafphp.dev](https://leafphp.dev). All our other sites have links here
+  - If you have any questions about leaf, you can ask away in our [Q&A discussion](https://github.com/leafsphp/leaf/discussions/43)
+</details>
 
 ### Leaf 3
 
-Leaf 3 is our upcoming major release and comes with tons of improvements. Leaf 3 is still under development, currently in its "release candidate" phase, which means that a stable build should be ready soon.
+<details>
+  <summary>All you need to know about Leaf 3</summary>
+  
+  Leaf 3 is our upcoming major release and comes with tons of improvements. Leaf 3 is still under development, currently in its "release candidate" phase, which means that a stable build should be ready soon.
 
-To keep track of Leaf 3's development, you can follow [this discussion](https://github.com/leafsphp/leaf/discussions/70)
+  To keep track of Leaf 3's development, you can follow [this discussion](https://github.com/leafsphp/leaf/discussions/70)
+</details>
 
 ### Contributing
 
-We are glad to have you. All contributions are welcome! To get started, familiarize yourself with our [contribution guide](https://leafphp.dev/community/contributing.html) and you'll be ready to make your first pull request 🚀
+<details>
+  <summary>Contribute to leaf & modules</summary>
+  
+  We are glad to have you. All contributions are welcome! To get started, familiarize yourself with our [contribution guide](https://leafphp.dev/community/contributing.html) and you'll be ready to make your first pull request 🚀
 
-To report a security vulnerability, you can reach out to [@mychidarko](https://twitter.com/mychidarko) or [@leafphp](https://twitter.com/leafphp) on twitter. We will coordinate the fix and eventually commit the solution in this project.
+  To report a security vulnerability, you can reach out to [@mychidarko](https://twitter.com/mychidarko) or [@leafphp](https://twitter.com/leafphp) on twitter. We will coordinate the fix and eventually commit the solution in this project.
+</details>
 
 
 ### Sponsoring Leaf
