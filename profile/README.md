@@ -27,7 +27,10 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
 
 ### Contributors and sponsors
 
-<table>
+<details>
+  <summary>Contributors & Sponsors</summary>
+  
+  <table>
       <tr>
         <td align="center">
           <a href="https://github.com/mychidarko">
@@ -271,6 +274,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
         </td>
       </tr>
     </table>
+</details>
 
 <!--
 
