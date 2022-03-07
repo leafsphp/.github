@@ -241,6 +241,58 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
       </tr>
       <tr>
 	<td align="center">
+          <a href="https://github.com/ezhasyafaat">
+            <img
+              src="https://avatars.githubusercontent.com/u/49098343?v=4"
+              width="60px"
+              alt=""
+            />
+            <br />
+            <sub>
+              <b>Muhammad Ezha Syafaat</b>
+            </sub>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/iamrameffort">
+            <img
+              src="https://avatars.githubusercontent.com/u/52138516?v=4"
+              width="60px"
+              alt=""
+            />
+            <br />
+            <sub>
+              <b>Rafael M.</b>
+            </sub>
+          </a>
+        </td>
+        <td align="center">
+          <a href="https://github.com/pisyek">
+            <img
+              src="https://avatars.githubusercontent.com/u/10695986?v=4"
+              width="60px"
+              alt=""
+            />
+            <br />
+            <sub>
+              <b>Pisyek K.</b>
+            </sub>
+          </a>
+        </td>
+	<td align="center">
+          <a href="https://github.com/wfsdaj">
+            <img
+              src="https://avatars.githubusercontent.com/u/36911167?v=4"
+              width="60px"
+              alt=""
+            />
+            <br />
+            <sub><b>wfsdaj</b></sub>
+          </a>
+        </td>
+      </tr>
+      <tr>
+	<td align="center">
           <a href="https://opencollective.com/aaron-smith3">
             <img
               src="https://images.opencollective.com/aaron-smith3/08ee620/avatar/256.png"
