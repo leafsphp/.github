@@ -12,16 +12,6 @@ Welcome to the Leaf PHP organization. We use this as a space to organize all our
   - If you have any questions about leaf, you can ask away in our [Q&A discussion](https://github.com/leafsphp/leaf/discussions/43)
 </details>
 
-### Leaf 3
-
-<details>
-  <summary>All you need to know about Leaf 3</summary>
-  
-  Leaf 3 is our upcoming major release and comes with tons of improvements. Leaf 3 is still under development, currently in its "release candidate" phase, which means that a stable build should be ready soon.
-
-  To keep track of Leaf 3's development, you can follow [this discussion](https://github.com/leafsphp/leaf/discussions/70)
-</details>
-
 ### Contributing
 
 <details>
@@ -293,6 +283,28 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
       </tr>
       <tr>
 	<td align="center">
+          <a href="https://github.com/tedtop">
+            <img
+              src="https://avatars.githubusercontent.com/u/5151307?v=4"
+              width="60px"
+              alt=""
+            />
+            <br />
+            <sub><b>tedtop</b></sub>
+          </a>
+        </td>
+	<td align="center">
+          <a href="https://github.com/Dreamer0x01">
+            <img
+              src="https://avatars.githubusercontent.com/u/12978365?v=4"
+              width="60px"
+              alt=""
+            />
+            <br />
+            <sub><b>Dreamer0x01</b></sub>
+          </a>
+        </td>
+	<td align="center">
           <a href="https://opencollective.com/aaron-smith3">
             <img
               src="https://images.opencollective.com/aaron-smith3/08ee620/avatar/256.png"
@@ -314,7 +326,9 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
             <sub><b>Peter Bogner</b></sub>
           </a>
         </td>
-        <td align="center">
+      </tr>
+      <tr>
+	<td align="center">
           <a href="#">
             <img
               src="https://images.opencollective.com/guest-32634fda/avatar.png"
@@ -325,7 +339,7 @@ Your cash contributions go a long way to help us make Leaf even better for you. 
             <sub><b>Vano</b></sub>
           </a>
         </td>
-        <td align="center">
+	<td align="center">
           <a href="#">
             <img
               src="https://images.opencollective.com/guest-c72a498e/avatar.png"
