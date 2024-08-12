@@ -1,31 +1,33 @@
-## Hi there 👋
+# Hi there 👋
 
-Welcome to the Leaf PHP organization. We use this as a space to organize all our community repos and build them up here. All your contributions are welcome 🍁
+We are a group of engineers with the goal of simplifying software development across different software engineering regimes. We use this as a space to organize all our community repos and build them up here. All your contributions are welcome 🍁
 
-### New here?
+## What do we build here?
+
+- [Leaf PHP](https://github.com/leafsphp/leaf) - A PHP micro-framework that helps you write clean, simple and efficient code
+- [Hana JS](https://github.com/leafsphp/hana) - A simple and powerful way to get started with React
+- [Naytive JS](https://github.com/leafsphp/naytive) - A compiler for building C/C++ applications with TypeScript
+
+### Join our community
+
+- [Discord](https://discord.gg/4nX9FyJ) - Join our discord server to get help, contribute and chat with other developers
+- [Twitter](https://twitter.com/leafphp) - Follow us on twitter for updates and news
+- [Blog](https://leafphp.dev/blog) - Read our blog for tutorials and updates
+- [YouTube](https://www.youtube.com/@leafphp) - Watch our YouTube channel for video tutorials
+
+### Contributing to Leaf, Hana & Naytive
 
 <details>
-  <summary>Take a look</summary>
-  
-  - You can take a look at our pinned repos to get started or jump into our [forum](https://github.com/leafsphp/leaf/discussions/37).
-  - Leaf's documentation is hosted at [leafphp.dev](https://leafphp.dev). All our other sites have links here
-  - If you have any questions about leaf, you can ask away in our [Q&A discussion](https://github.com/leafsphp/leaf/discussions/43)
+<summary>We are glad to have you.</summary>
+
+All contributions are welcome! To get started, familiarize yourself with our [contribution guide](https://leafphp.dev/community/contributing.html) and you'll be ready to make your first pull request 🚀
+
+To report a security vulnerability, you can reach out to [@mychidarko](https://twitter.com/mychidarko) or [@leafphp](https://twitter.com/leafphp) on twitter. We will coordinate the fix and eventually commit the solution in this project.
 </details>
 
-### Contributing
+### Cash Contributions
 
-<details>
-  <summary>Contribute to leaf & modules</summary>
-  
-  We are glad to have you. All contributions are welcome! To get started, familiarize yourself with our [contribution guide](https://leafphp.dev/community/contributing.html) and you'll be ready to make your first pull request 🚀
-
-  To report a security vulnerability, you can reach out to [@mychidarko](https://twitter.com/mychidarko) or [@leafphp](https://twitter.com/leafphp) on twitter. We will coordinate the fix and eventually commit the solution in this project.
-</details>
-
-
-### Sponsoring Leaf
-
-Your cash contributions go a long way to help us make Leaf even better for you. You can sponsor Leaf and any of our packages on [open collective](https://opencollective.com/leaf) or check the [contribution page](https://leafphp.dev/support/) for a list of ways to contribute.
+Your cash contributions go a long way to help us make Leaf, Hana and Naytive even better for you. You can sponsor Leaf and any of our packages through [open collective](https://opencollective.com/leaf) or check the [contribution page](https://leafphp.dev/support/) for a list of ways to contribute.
 
 <!--
 
