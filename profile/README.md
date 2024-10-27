@@ -5,8 +5,7 @@ We are a group of engineers with the goal of simplifying software development ac
 ## What do we build here?
 
 - [Leaf PHP](https://github.com/leafsphp/leaf) - A PHP micro-framework that helps you write clean, simple and efficient code
-- [Hana JS](https://github.com/leafsphp/hana) - A simple and powerful way to get started with React
-- [Naytive JS](https://github.com/leafsphp/naytive) - A compiler for building C/C++ applications with TypeScript
+- [Hana JS](https://github.com/leafsphp/hana) - A simple and powerful way to get started with React + Leaf
 
 ### Join our community
 
