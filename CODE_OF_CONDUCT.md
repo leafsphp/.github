@@ -1,3 +1,3 @@
 # Code of Conduct
 
-The Leaf Code of Conduct can be found in the [Leaf website](https://leafphp.dev/coc).
+The Leaf Code of Conduct can be found on [leafphp.dev](https://leafphp.dev/community/code-of-conduct.html)
