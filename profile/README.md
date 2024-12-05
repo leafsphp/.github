@@ -14,7 +14,7 @@ We are a group of engineers with the goal of simplifying software development ac
 - [Blog](https://leafphp.dev/blog) - Read our blog for tutorials and updates
 - [YouTube](https://www.youtube.com/@leafphp) - Watch our YouTube channel for video tutorials
 
-### Contributing to Leaf, Hana & Naytive
+### Contributing to Leaf
 
 <details>
 <summary>We are glad to have you.</summary>
@@ -26,7 +26,7 @@ To report a security vulnerability, you can reach out to [@mychidarko](https://t
 
 ### Cash Contributions
 
-Your cash contributions go a long way to help us make Leaf, Hana and Naytive even better for you. You can sponsor Leaf and any of our packages through [open collective](https://opencollective.com/leaf) or check the [contribution page](https://leafphp.dev/support/) for a list of ways to contribute.
+Your cash contributions go a long way to help us make Leaf even better for you. You can sponsor Leaf and any of our packages through [open collective](https://opencollective.com/leaf) or check the [contribution page](https://leafphp.dev/support/) for a list of ways to contribute.
 
 <!--
 
