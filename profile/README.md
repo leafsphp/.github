@@ -1,11 +1,6 @@
 # Hi there 👋
 
-We are a group of engineers with the goal of simplifying software development across different software engineering regimes. We use this as a space to organize all our community repos and build them up here. All your contributions are welcome 🍁
-
-## What do we build here?
-
-- [Leaf PHP](https://github.com/leafsphp/leaf) - A PHP micro-framework that helps you write clean, simple and efficient code
-- [Hana JS](https://github.com/leafsphp/hana) - A simple and powerful way to get started with React + Leaf
+Leaf is a lightweight and user-friendly framework designed for quick and efficient development. It features a zero-config setup and an ecosystem of tools, making it ideal for building scalable apps with ease.
 
 ### Join our community
 
@@ -26,7 +21,13 @@ To report a security vulnerability, you can reach out to [@mychidarko](https://t
 
 ### Cash Contributions
 
-Your cash contributions go a long way to help us make Leaf even better for you. You can sponsor Leaf and any of our packages through [open collective](https://opencollective.com/leaf) or check the [contribution page](https://leafphp.dev/support/) for a list of ways to contribute.
+Leaf has always been open-source and free, but as the project grows, so do the challenges of maintaining and building new features. The costs—time, resources, and infrastructure—are increasing rapidly, and our small team can no longer sustain this alone.
+
+To keep Leaf alive and thriving, we need your support now more than ever. Sponsor us on [GitHub Sponsors](https://github.com/sponsors/leafsphp) or visit our [sponsors page](https://leafphp.dev/support/) to explore ways you can contribute.
+
+Your help makes all the difference—let’s keep Leaf moving forward together!
+
+And to all our [existing cash/code contributors](https://leafphp.dev#sponsors), we love you all ❤️
 
 <!--
 
